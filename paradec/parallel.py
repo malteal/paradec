@@ -1,3 +1,5 @@
+
+
 def parallel(function):
     def wrapper(all_inputs):
         input_length=len(all_inputs)
